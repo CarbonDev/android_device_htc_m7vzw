@@ -4,8 +4,10 @@
     "target_path": "device/htc/m7-common"
   },
   {
-    "repository": "CarbonDev/android_device_htc_msm8960-common",
-    "target_path": "device/htc/msm8960-common"
+    "remote": "cm",
+    "repository": "CyanogenMod/android_device_htc_msm8960-common",
+    "target_path": "device/htc/msm8960-common",
+    "revision": "cm-11.0"
   },
   {
     "remote": "cm",
